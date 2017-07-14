@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "description": "API",
+  "main": "app.js",
+  "author": {
+    "name": "c18879a"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.29",
+    "underscore": "^1.8.3"
+  }
+}
